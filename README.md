@@ -1,6 +1,7 @@
 # wikipedia-API
 API de wikipedia-codigo python 
-Elizabeth Gonzales romero-164019_Brandon Estiven Moran Rojas-164019 
+
+Elizabeth Gonzalez Romero-164017_Brandon Estiven Moran Rojas-164019 
 
 Pagina del API: en esta la siguiente pagina https://wikipedia.readthedocs.io/en/latest/code.html#api podras encontrar informacion importante relacionada con el API y te ayudara a conocer mas del desarrollo para que puedan modificar o desarrollar tu propia API esta pagina nos sirvio mucho para desarrollar nuestra API 
 
